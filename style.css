@@ -42,6 +42,7 @@ body {
     align-items: start;
     padding: 3rem;
     background-color: var(--Gold-500);
+    
 }
 
 .first-section .btn {
@@ -49,6 +50,7 @@ body {
 }
 
 .first-section .paragraph {
+    max-widht:300px;
 }
 
 .second-section {
