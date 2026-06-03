@@ -98,12 +98,12 @@ body {
 }
 
 .paragraph {
-    font-weight: 200;
+    font-weight: 400;
     font-family: "Lexend Deca", sans-serif;
     color: hsla(0, 0%, 100%, 0.75);
     margin-bottom: 4rem;
     font-size: 0.9375rem;
-    line-height: 1.4;
+    line-height: 2;
 }
 
 .btn {
@@ -112,7 +112,7 @@ body {
     background-color: var(--Grey);
     text-decoration: none;
     text-align: center;
-    padding: 10px 20px;
+    padding: 15px 30px;
     border-radius: 25px;
     border: 1px solid #fff;
 }
