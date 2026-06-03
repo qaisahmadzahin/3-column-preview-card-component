@@ -142,4 +142,11 @@ body {
         width: 95%;
         margin-inline: auto;
     }
+    .heading{
+        font-family: "Big Shoulders", sans-serif;
+    }
+    .paragraph{
+        font-size: 0.9375rem;
+       font-family: "Lexend Deca", sans-serif; 
+    }
 }
